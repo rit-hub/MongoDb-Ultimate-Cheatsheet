@@ -7,6 +7,10 @@
 
 ## Mongo vs Mongod
 
+<div>
+  <img width='80%' src='https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/mongodb/mongovsmongod.jpg' alt='Mongo' />
+</div>
+
 ## Mongo Atlas
 
 ## MongoDb Compass
