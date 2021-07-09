@@ -2,10 +2,7 @@
 # MongoDb Ultimate Cheatsheet
 
 <div align="center">
-
-<a href='https://crypto-king-tracker.web.app/' target='_blank'>
-  <img width='30%' src='https://github.com/rit-hub/resume/blob/master/img/portfolio/thumb/CRYPTO.png' alt='Crypto Tracker' />
-</a>
+  <img width='30%' src='https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/mongodb/mongo.jpg' alt='Mongo' />
 </div>
 
 ## Mongo vs Mongod
