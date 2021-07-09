@@ -28,9 +28,9 @@
 
 ## Collections & Documents
 
-<div>
+<div align="center">
   <img width='40%' src='https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/mongodb/mongoCollections.jpg' alt='Mongo' />
-   <img width='40%' src='https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/mongodb/mongoDocuments.jpg' alt='Mongo' />
+   <img width='50%' src='https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/mongodb/mongoDocuments.jpg' alt='Mongo' />
 </div>
 
 ## Database Commands
