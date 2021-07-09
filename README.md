@@ -2,7 +2,7 @@
 # MongoDb Ultimate Cheatsheet
 
 <div align="center">
-  <img width='30%' src='https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/mongodb/mongo.jpg' alt='Mongo' />
+  <img width='80%' src='https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/mongodb/mongo.jpg' alt='Mongo' />
 </div>
 
 ## Mongo vs Mongod
