@@ -1,7 +1,7 @@
 
 # MongoDb Ultimate Cheatsheet
 
-<div align="center">
+<div>
   <img width='80%' src='https://raw.githubusercontent.com/rit-hub/public_logo_png_img/main/mongodb/mongo.jpg' alt='Mongo' />
 </div>
 
