@@ -85,7 +85,7 @@ Insert One Row
 
 ```bash
 db.comments.insert({
-    'name': 'Harry',
+    'name': 'Ritam',
     'lang': 'JavaScript',
     'member_since': 5
  })
@@ -94,7 +94,7 @@ Insert many Rows
 
 ```bash
 db.comments.insertMany([{
-    'name': 'Harry',
+    'name': 'Ritam',
     'lang': 'JavaScript',
     'member_since': 5
     }, 
@@ -123,7 +123,7 @@ db.comments.find().count()
 Update a row
 ```bash
 db.comments.update({name: 'Shubham'},
-{'name': 'Harry',
+{'name': 'Ritam',
     'lang': 'JavaScript',
     'member_since': 51
 }, {upsert: true})
@@ -144,7 +144,7 @@ db.comments.update({name: 'Rohan'},
 ```  
 Delete Row 
 ```bash
-db.comments.remove({name: 'Harry'})
+db.comments.remove({name: 'Ritam'})
 ```  
 Less than/Greater than/ Less than or Eq/Greater than or Eq
 ```bash
