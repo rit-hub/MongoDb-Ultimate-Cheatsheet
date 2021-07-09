@@ -18,8 +18,9 @@
 | :-------- | :------- | 
 | `Database` | `Database` | 
 | `Tables` | `Collections` | 
-| `Rows` | `Documents (Bson)` | 
+| `Rows` | `Documents (BSON*)` | 
 | `Columns` | `Fields` | 
+<p>*BSON - Binary JSON</p>
 
 ## Collections & Documents
 
